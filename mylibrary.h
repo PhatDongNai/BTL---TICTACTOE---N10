@@ -207,14 +207,6 @@ void KhoiTaoBang(){
 	printf("\n\t\t\t\t\t\t\t4. [4x4]\n");
 	SetConsoleTextAttribute(hConsole, 14);
 	printf("\n\t\t\t\t\t\t\t5. [5x5]\n");
-	SetConsoleTextAttribute(hConsole, 10);
-	printf("\n\t\t\t\t\t\t\t6. [6x6]\n");
-	SetConsoleTextAttribute(hConsole, 12);
-	printf("\n\t\t\t\t\t\t\t7. [7x7]\n");
-	SetConsoleTextAttribute(hConsole, 3);
-	printf("\n\t\t\t\t\t\t\t8. [8x8]\n");
-	SetConsoleTextAttribute(hConsole, 5);
-	printf("\n\t\t\t\t\t\t\t9. [9x9]\n");
 	SetConsoleTextAttribute(hConsole, 15);
 	scanf("%d", &row);
 	col = row ;
