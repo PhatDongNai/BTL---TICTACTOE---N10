@@ -48,14 +48,6 @@ int main(){
 				printf("            ");
 				GoTo(55,15);
 				printf("            ");
-				GoTo(55,17);
-				printf("            ");
-				GoTo(55,19);
-				printf("            ");
-				GoTo(55,21);
-				printf("            ");
-				GoTo(55,23);
-				printf("            ");
 				GoTo(0,24);
 				printf("            ");
 				GoTo(30,10);
